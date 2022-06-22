@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm José Miguel</h1>
 <h3 align="center">I'm just a guy who loves tech, football and a quality time with my friends 🇵🇹</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c03491a19bf0527ad5a29e6da9af941a5f91ddbb&rid=giphy.gif"> <br />
