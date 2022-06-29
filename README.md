@@ -6,7 +6,7 @@
 
 - 👨🏽‍🎓 Graduated in **Computer Science in 2021**
 
-- 📫 Reach me ate **jose.miguel.gomes@hotmail.com** !
+- 📫 Reach me at **jose.miguel.gomes@hotmail.com** !
 
 - ⚡ Fun fact **I think I am funny 😅** and don't put pineapple on pizza please 🍕
 
