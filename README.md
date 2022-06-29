@@ -6,7 +6,7 @@
 
 - 👨🏽‍🎓 Graduated in **Computer Science in 2021**
 
-- 📫 How to reach me **jose.miguel.gomes@gmail.com**
+- 📫 How to reach me **jose.miguel.gomes@hotmail.com**
 
 - ⚡ Fun fact **I think I am funny 😅**
 
