@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm José Miguel</h1>
-<h3 align="center">I'm just a guy who loves tech, football and a quality time with my friends 🇵🇹</h3>
+<h3 align="center">I'm just a guy who loves tech, football, F1 and a quality time with my friends 🇵🇹</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c03491a19bf0527ad5a29e6da9af941a5f91ddbb&rid=giphy.gif"> <br />
 
-- 📚 I am currently taking my Masters in Computer Science in **[University of Coimbra](https://www.uc.pt/)**
+- 📚 Master's degree in Computer Engineering, specializing in Software Engineering, from the **[University of Coimbra](https://www.uc.pt/)**, completed in 2023.
 
 - 👨🏽‍🎓 Graduated in **Computer Science in 2021**
 
 - 📫 Reach me at **jose.miguel.gomes@hotmail.com** !
 
-- ⚡ Fun fact **I think I am funny 😅** and don't put pineapple on pizza please 🍕
+- ⚡ Fun fact **my favourite football team is Sport Lisboa and Benfica** and every sunday if F1 time!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
